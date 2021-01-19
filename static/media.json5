@@ -1,0 +1,14 @@
+{
+    gym: {
+        title: "כושר",
+        imageTitles: {
+            "train-brenchpress": "צילם: ישראל ישראלי. המחכה הישראלי",
+            "train-squate": "צילם: הרבי המהימן מפקיסטן. זה עושה אותי שמנה?",
+            "train-weights": "צילם: רועייי נחון. בלי כאב אני רעב"
+        }
+    },
+    viewTitle: "רחבי הקרייה",
+    cultureTitle: "תרבות",
+    commercialCentreTitle: "מרכז מסחרי",
+    accommodationsTitle: "מגורים"
+}

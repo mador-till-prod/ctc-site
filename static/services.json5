@@ -1,0 +1,30 @@
+{
+    barbershop: {
+        openingHours: [
+            {
+                days: "1-5",
+                hours: "8:00-18:45"
+            }, {
+                days: "הפסקה",
+                hours: "12:00-13:00"
+            }, {
+                days: "שישי וערבי חג",
+                hours: "8:00-12:00"
+            }
+        ],
+        title: "מספרה"
+    },
+    ticketsTitle: "תקלות",
+    religionDepartment: {
+        title: "רבנות",
+        openingHours: [
+            {
+                days: "1-5",
+                hours: "8:00-17:30"
+            }, {
+                days: "הפסקה",
+                hours: "12:00-13:00"
+            }
+        ]
+    }
+}

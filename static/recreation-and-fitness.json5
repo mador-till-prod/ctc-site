@@ -1,0 +1,114 @@
+{
+    gym: {
+        displayName: "כושר",
+        schedule: {
+            "6": [
+                [
+                    "7:00-22:00",
+                    "7:00-10:30",
+                    "7:00-13:00"
+                ],
+                [
+                    "7:00-22:00",
+                    "7:00-10:30",
+                    "7:00-13:00"
+                ]    
+            ],
+            "7": [
+                [
+                    "7:00-22:00",
+                    "7:00-10:30",
+                    "7:00-13:00"
+                ],
+                [
+                    "7:00-22:00",
+                    "7:00-10:30",
+                    "7:00-13:00"
+                ]
+            ]
+        },
+        openingHours: [
+            {
+                days: "1-4",
+                hours: "7:00-22:00"
+            },
+            {
+                days: "5",
+                hours: "7:00-10:30"
+            },
+            {
+                days: "6",
+                hours: "7:00-13:00"
+            },
+            {
+                note: "bsd"
+            }
+        ],
+        studio: {
+            combatTraining: [
+                {
+                    days: "1",
+                    hours: "7:00-22:00"
+                }
+            ], fitnessTraining: [
+                {
+                    days: "4",
+                    hours: "7:00-22:00"    
+                }
+            ]
+        },
+        subsriptionHours: [
+            {
+                days: "1-4",
+                hours: "7:00-22:00"
+            },
+        ]
+    },
+    pool: {
+        displayName: "בריכה",
+        boysOpeningHours: [
+            {
+                days: "2",
+                hours: "6:30-8:00"
+            },
+            {
+                days: "4",
+                hours: "20:00-21:00"
+            }
+        ], 
+        girlsOpeningHours: [
+            {
+                days: "2",
+                hours: "20:00-21:00"
+            },
+            {
+                days: "4",
+                hours: "9:00-7:30"
+            }
+        ],
+        openingHours: [
+            {
+                days: "1",
+                hours: ["14:00-18:00", "18:30-21:00"]
+            }, {
+                days: "2-4",
+                hours: ["6:30-9:00", "18:00-14:00", "18:30-21:00"]
+            }, {
+                days: "5",
+                hours: "6:30-9:00"
+            }
+        ]
+    },
+    library: {
+        displayName: "ספרייה",
+        openingHours: [
+            {
+                days: "1-5",
+                hours: ["8:00-13:00", "14:00-16:30"]
+            }
+        ],
+        pianoOpeningHours: [
+            "8:30-13:00"
+        ]
+    }
+}

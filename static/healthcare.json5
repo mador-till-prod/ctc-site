@@ -1,0 +1,29 @@
+{
+    clinicTitle: "מרפאה",
+    openingHours: [
+        {
+            days: "1-5",
+            hours: "8:00-17:30"
+        }, {
+            days: "הפסקה",
+            hours: "12:00-13:00"
+        }
+    ],
+    medicalCentre: {
+        title: "מרפ\"א",
+        openingHours: [
+            {
+                days: "1-5",
+                hours: "8:30-16:30"
+            }
+        ],
+    },
+    medicalCallCentreTitle: "מקול הלב",
+    doctorVisitsTitle: "ביקור רופא",
+    pharmacyOpeningHours: [
+        {
+            days: "1-5",
+            hours: ["8:00-12:00", "12:30-16:30"]
+        }
+    ]
+}

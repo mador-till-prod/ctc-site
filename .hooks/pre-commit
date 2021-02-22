@@ -1,0 +1,7 @@
+#!/bin/sh
+if ! [ -f build.version ]; then
+    echo 0 > build.version
+else 
+    expr $(build.version) + 1 > build.version
+fi
+git add build.version

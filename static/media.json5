@@ -7,8 +7,20 @@
             "train-weights": "צילם: רועייי נחון. בלי כאב אני רעב"
         }
     },
-    viewTitle: "רחבי הקרייה",
-    cultureTitle: "תרבות",
-    commercialCentreTitle: "מרכז מסחרי",
-    accommodationsTitle: "מגורים"
+    view: {
+        title: "רחבי הקרייה",
+        imageTitles: {}
+    },
+    culture: {
+        title: "תרבות",
+        imageTitles: {}
+    },
+    commercialCentre: {
+        title: "מרכז מסחרי",
+        imageTitles: {}
+    },
+    accommodations: {
+        title: "מגורים",
+        imageTitles: {}
+    }
 }

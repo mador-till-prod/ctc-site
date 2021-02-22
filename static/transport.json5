@@ -1,23 +1,219 @@
 {
-    "loc-RLTZ": { 
+    "loc-KS": {
         schedule: [
-            ["7:00", "7:05", "7:10", "7:20", "7:30", "7:35", "7:45", "8:00", "8:15"]
+            ["6:15", "6:30", "6:45"]
         ],
-        placeUrl: "#",
-        text: "רח’ ילדי טהרן (מצפון ובצמוד לסינמה סיטי)"
-    }, 
-    "loc-AR": {
-        text: "ארבל. מה עוד יש לומר?",
-        placeUrl: "#",
+        text: "תחנה מרכזית",
+        placeUrl: "https://goo.gl/maps/vvdgE2xBs6i6AYBg6"
+    },
+    "loc-HAT": {
         schedule: [
-            []
-        ]
-    }, 
-    "loc-RAH": {
-        text: "ישר בתוך המעיין",
-        placeUrl: "#",
+            ["6:15", "6:30", "6:45"]
+        ],
+        text: "תחנה מרכזית",
+        placeUrl: "https://goo.gl/maps/mYvGDEUxKdp1hEYZ7"
+    },
+    "loc-CH": {
         schedule: [
-            ["7:00", "7:05", "7:10", "7:20", "7:30", "7:35", "7:45", "8:00", "8:15"]
-        ]
+            ["6:15", "6:30", "6:45", "7:00"]
+        ],
+        text: "מרכז ביג מול BBB",
+        placeUrl: "https://goo.gl/maps/biRwLWrm7TpTVpoR6"
+    },
+    "loc-UC": {
+        schedule: [
+            ["6:15", "6:30", "6:45", "7:00"]
+        ],
+        text: "תחנת האוטובוס מול קניון G בכביש הראשי",
+        placeUrl: "https://goo.gl/maps/Ab213xVi47spxZ9V8"
+    },
+    "loc-HP": {
+        schedule: [
+            ["6:15", "6:15", "6:30", "6:45", "7:15", "7:30"]
+        ],
+        text: "קהילת ציון ע\"י ת. מרכזית",
+        placeUrl: "https://www.google.com/maps/search/?api=1&query=32.60758999295023,35.292331347142714"
+    },
+    "loc-CN": {
+        schedule: [
+            ["7:00", "7:15", "7:30", "7:30", "7:55", "8:00"]
+        ],
+        text: "מנחת בגין פינת נעמי שחר",
+        placeUrl: "https://goo.gl/maps/SLXGnNwUoGFZ1Jby6"    
+    },
+    "loc-CT": {
+        schedule: [
+            ["7:00", "7:30", "7:45", "8:00", "8:30"]
+        ],
+        text: "חניון אוטובוסים ע\"י שער צפון",
+        placeUrl: "https://goo.gl/maps/rhQ3nNpaYT3Nd63A7"
+    },
+    "loc-PT": {
+        schedule: [
+            ["7:00", "7:05", "7:10", "7:30", "7:45", "8:00", "8:05", "8:15"]
+        ],
+        text: "אצטדיון המושבה בקריית אריה",
+        placeUrl: "https://goo.gl/maps/3mvyBYoHmyDHxmMH7"
+    },
+    "loc-CS": {
+        schedule: [
+            ["7:00", "7:00", "7:00", "7:15", "7:15", "7:30"]
+        ],
+        text: "תכנה מרכזית",
+        placeUrl: "https://goo.gl/maps/f9qNCYFnZvSowuHA9"    
+    },
+    "loc-HO": {
+        schedule: [
+            ["7:30", "7:45", "8:00", "8:45"]
+        ],
+        text: "מסוף שרת (מסוף לפארק פרס)",
+        placeUrl: "https://goo.gl/maps/jHXzDrzCQydhCrzo8"        
+    },
+    "loc-RZ-W": {
+        schedule: [
+            ["7:00", "7:30", "7:45", "8:00", "8:30"]
+        ],
+        text: "רח' ילדי הטהרן",
+        placeUrl: "https://goo.gl/maps/kVFmJ8rSH233Etxa8"            
+    },
+    "loc-RZ-E": {
+        schedule: [
+            ["7:00", "7:15", "7:30", "7:45", "8:00", "8:30", "8:45"]
+        ],
+        text: "תחנת רכבת ראשונים",
+        placeUrl: "https://goo.gl/maps/b7KpWSkZStJgfWWD9"                
+    },
+    "loc-RE": {
+        schedule: [
+            ["7:30", "7:40", "7:50", "8:10"]
+        ],
+        text: "מסוף הלר צמוד לת. רכבת",
+        placeUrl: "https://goo.gl/maps/7HaSKgDt8cgX6SvZ7"                    
+    },
+    "loc-GD": {
+        schedule: [
+            ["7:30", "8:00"]
+        ],
+        text: "מרכז גוזלן",
+        placeUrl: "https://goo.gl/maps/T5gZmWZmBxiqRKSd6"    
+    },
+    "loc-ASD": {
+        schedule: [
+            ["7:15", "7:30", "7:40", "7:50", "8:10"]
+        ],
+        text: "ליד חב\"ד צמוד לתכנה מרכזית.",
+        placeUrl: "https://goo.gl/maps/d4PkVUZVdzY2JMau5"
+    },
+    "loc-ASK": {
+        schedule: [
+            ["8:10", "8:30", "8:30"]
+        ],
+        text: "תחנה מרכזית רציף 12",
+        placeUrl: "https://goo.gl/maps/qC5k9BkjxnP1xSeUA"
+    },
+    "loc-MO": {
+        schedule: [
+            ["7:15", "7:30", "7:45", "8:15", "8:30"]
+        ],
+        text: "מסוף עירוני",
+        placeUrl: "https://goo.gl/maps/jqP35yNN7FfR7Tq49"
+    },
+    "loc-SHA": {
+        schedule: [
+            ["7:30", "8:30"]
+        ],
+        text: "רחוב לפיד פינת תרשיש",
+        placeUrl: "https://goo.gl/maps/MyNTdjNtmB3TKQRe9"
+    },
+    "loc-MTZ": {
+        schedule: [
+            ["7:00", "8:00"]
+        ],
+        text: "שדרות הראל (מול הקניון)",
+        placeUrl: "https://goo.gl/maps/KBsaVNRWTAj6UuA68"
+    },
+    "loc-JE-N": {
+        schedule: [
+            ["7:00", "7:15", "7:30", "8:00", "8:30"]
+        ],
+        text: "גבעת התחמושת",
+        placeUrl: "https://goo.gl/maps/vBvC2vquLsFcEbtN8"
+    }, 
+    "loc-JE-S": {
+        schedule: [
+            ["6:45", "7:00", "7:30", "8:00", "8:30", "9:00"]
+        ],
+        text: "חניון טדי מול שער 23",
+        placeUrl: "https://goo.gl/maps/Eic38NJ9vwNiycJr6"
+    },
+    "loc-BSH": {
+        schedule: [
+            ["7:30", "8:30"]
+        ],
+        text: "כניסה לתחנת רכבת",
+        placeUrl: "https://goo.gl/maps/oCPLwgE1xU9pdg3f9"
+    }, 
+    "loc-BS": {
+        schedule: [
+            ["7:30", "7:35", "7:40", "7:45"]
+        ],
+        text: "תחנה מרכזית רציף 170",
+        placeUrl: "https://goo.gl/maps/tzNKKoCFeyYB3CZn8"
+    },
+    "loc-AL": {
+        schedule: [
+            ["8:00"]
+        ],
+        text: "תחנת אגד",
+        placeUrl: "https://goo.gl/maps/R8yPrw49pB9xK9Z78"
+    },
+    "loc-ZY": {
+        schedule: [
+            ["7:30"]
+        ],
+        text: "תחנת אגד",
+        placeUrl: "https://goo.gl/maps/QgzXGtU8kqdstWzD7"    
+    },
+    "loc-NA": {
+        schedule: [
+            ["6:30", "6:45"]
+        ],
+        text: "תחנת אגד",
+        placeUrl: "https://goo.gl/maps/waUVgPLM7ikgAJDG8"
+    },
+    "loc-HAI": {
+        schedule: [
+            ["6:15", "6:30", "6:45", "7:00", "7:05", "7:10", "7:15", "7:15", "7:15"]
+        ],
+        text: "חוף הכרמל",
+        placeUrl: "https://goo.gl/maps/VVzpNhUz1j5MGNbN7"
+    },
+    "loc-BIN": {
+        schedule: [
+            ["7:00", "7:15"]
+        ],
+        text: "תחנת רכבת בנימינה",
+        placeUrl: "https://goo.gl/maps/uLHCZ5m2h91L75h8A"
+    },
+    "loc-HER": {
+        schedule: [
+            ["7:45", "8:00"]
+        ],
+        text: "תחנת רכבת הרצליה",
+        placeUrl: "https://goo.gl/maps/S1rXmbxUJuF3WFFUA"
+    },
+    "loc-TA": {
+        schedule: [
+            ["8:00", "8:10", "8:15", "8:20", "8:25"]
+        ],
+        text: "ארלוזרוב/סבידור",
+        placeUrl: "https://goo.gl/maps/dpHBMCwAEpDE1XoE9"
+    },
+    "loc-RA-N": {
+        schedule: [
+            ["8:00"]
+        ],
+        text: "תחנת רכבת",
+        placeUrl: "https://goo.gl/maps/JywrugW8N4DE7Zyw7"
     }
-} 
+}

@@ -28,14 +28,108 @@
     ],
     places: [
         {
-            text: "ראשון לציון",
-            id: "loc-RLTZ"
+            text: "קריית שמונה",
+            id: "loc-KS"
         }, {
-            text: "ארבל",
-            id: "loc-AR"
+            text: "חצור",
+            id: "loc-HAT"
         }, {
-            text: "ראש של עין",
-            id: "loc-RAH"
+            text: "כרמיאל",
+            id: "loc-CH"
+        }, {
+            text: "יוקנעם",
+            id: "loc-UC"
+        }, {
+            text: "עפולה",
+            id: "loc-HP"
+        }, {
+            text: "כפר יונה",
+            id: "loc-CN"
+        }, {
+            text: "תה\"ש / קריית אונו",
+            id: "loc-CT"
+        }, {
+            text: "פתח תקווה",
+            id: "loc-PT"
+        }, {
+            text: "כפר סבא",
+            id: "loc-CS"
+        }, {
+            text: "חולון",
+            id: "loc-HO"
+        }, {
+            text: "רשל\"צ מערב",
+            id: "loc-RZ-W"
+        }, {
+            text: "רשל\"צ מזרח",
+            id: "loc-RZ-E"
+        }, {
+            text: "רחובות",
+            id: "loc-RE"
+        }, {
+            text: "גדרה",
+            id: "loc-GD"
+        }, {
+            text: "אשדוד",
+            id: "loc-ASD"
+        }, {
+            text: "אשקלון",
+            id: "loc-ASK"
+        }, {
+            text: "מודיעין",
+            id: "loc-MO"
+        }, {
+            text: "שהם",
+            id: "loc-SHA"
+        }, {
+            text: "מבשרת ציון",
+            id: "loc-MTZ"
+        }, {
+            text: "ירושלים צפון",
+            id: "loc-JE-N"
+        }, {
+            text: "ירושלים דרום",
+            id: "loc-JE-S"
+        }, {
+            text: "בית שמש",
+            id: "loc-BSH"
+        }, {
+            text: "באר שבע מרכז",
+            id: "loc-BS"
+        }, {
+            text: "אילת",
+            id: "loc-AL"
+        }, {
+            text: "זכרון יעקוב",
+            id: "loc-ZY"
+        }, {
+            text: "נהריה",
+            id: "loc-NA"
+        }, {
+            text: "חיפה",
+            id: "loc-HAI"
+        }, {
+            text: "בנימינה",
+            id: "loc-BIN"
+        }, {
+            text: "הרצליה",
+            id: "loc-HER"
+        }, {
+            text: "תל אביב",
+            id: "loc-TA"
+        }, {
+            text: "ראש העין צפון",
+            id: "loc-RA-N"
         }
+        // {
+        //     text: "ראשון לציון",
+        //     id: "loc-RLTZ"
+        // }, {
+        //     text: "ארבל",
+        //     id: "loc-AR"
+        // }, {
+        //     text: "ראש של עין",
+        //     id: "loc-RAH"
+        // }
     ]
 }
